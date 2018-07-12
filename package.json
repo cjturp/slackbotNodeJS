@@ -1,0 +1,15 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slackbot that gives you some yokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Christopher Turpin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
